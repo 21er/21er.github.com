@@ -6,7 +6,27 @@
     <description>Recent content in Posts on 21er Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://21er.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 08:35:57 +0800</lastBuildDate><atom:link href="https://21er.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test2</title>
+      <link>https://21er.github.io/posts/test2/</link>
+      <pubDate>Sat, 05 Jun 2021 08:35:57 +0800</pubDate>
+      
+      <guid>https://21er.github.io/posts/test2/</guid>
+      <description>this is a test.
+测试下中文。
+中文的标点》，//。</description>
+    </item>
+    
+    <item>
+      <title>T1</title>
+      <link>https://21er.github.io/posts/t1/</link>
+      <pubDate>Fri, 04 Jun 2021 21:39:44 +0800</pubDate>
+      
+      <guid>https://21er.github.io/posts/t1/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://21er.github.io/posts/post-8/</link>
