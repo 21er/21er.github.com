@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Hugo</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on Hugo</description>
+    <title>Posts on 21er</title>
+    <link>https://21er.github.io/posts/</link>
+    <description>Recent content in Posts on 21er</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright>
-    <lastBuildDate>Sat, 05 Jun 2021 11:35:57 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Jun 2021 11:35:57 +0800</lastBuildDate><atom:link href="https://21er.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is water</title>
-      <link>http://example.org/posts/this-is-water/</link>
+      <link>https://21er.github.io/posts/this-is-water/</link>
       <pubDate>Sat, 05 Jun 2021 11:35:57 +0800</pubDate>
       
-      <guid>http://example.org/posts/this-is-water/</guid>
+      <guid>https://21er.github.io/posts/this-is-water/</guid>
       <description>(If anybody feels like perspiring, I&amp;rsquo;d advise you to go ahead, because I&amp;rsquo;m sure going to. In fact I&amp;rsquo;m gonna, mumbles while pulling up his gown and taking out a handkerchief from his pocket.)
 Greetings &amp;ldquo;parents&amp;rdquo;? and congratulations to Kenyon&amp;rsquo;s graduating class of 2005.
 There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says &amp;ldquo;Morning, boys.</description>
@@ -21,10 +21,10 @@ There are these two young fish swimming along and they happen to meet an older f
     
     <item>
       <title>A cheat sheet for the writing section in CET 4/6</title>
-      <link>http://example.org/posts/test2/</link>
+      <link>https://21er.github.io/posts/test2/</link>
       <pubDate>Sat, 05 Jun 2021 08:35:57 +0800</pubDate>
       
-      <guid>http://example.org/posts/test2/</guid>
+      <guid>https://21er.github.io/posts/test2/</guid>
       <description>下周就要考四六级了。
  作文开头一定要花时间和耐心写好。 应试作文是向评卷人展示自己使用词汇、语法写成英语句子的能力，不是自由的创作型写作。 中间段落需要分论点清晰，易读，不需要突破常识，不需要新颖。  But the result of mainstream engagement, as often as not, is little more than a demonstration of the narrow perspective of the conventional economist. In that vein, I’m particularly enamored of this contribution from Alex Tabarrok at Marginal Revolution. Tabarrok seizes on an element of Graeber’s essay that echoes something I wrote about a couple of years ago: the weak relationship between the importance of the jobs people do and the reward they receive for doing them.</description>
     </item>
