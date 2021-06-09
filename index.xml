@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>21er</title>
+    <title>21er Blog</title>
     <link>https://21er.github.io/</link>
-    <description>Recent content on 21er</description>
+    <description>Recent content on 21er Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
     <lastBuildDate>Sat, 05 Jun 2021 11:35:57 +0800</lastBuildDate><atom:link href="https://21er.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This is water</title>
@@ -16,7 +17,7 @@
       <guid>https://21er.github.io/posts/this-is-water/</guid>
       <description>(If anybody feels like perspiring, I&amp;rsquo;d advise you to go ahead, because I&amp;rsquo;m sure going to. In fact I&amp;rsquo;m gonna, mumbles while pulling up his gown and taking out a handkerchief from his pocket.)
 Greetings &amp;ldquo;parents&amp;rdquo;? and congratulations to Kenyon&amp;rsquo;s graduating class of 2005.
-There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says &amp;ldquo;Morning, boys.</description>
+There are these two young fish swimming along and they happen to meet an older fish swimming the other way, who nods at them and says &amp;ldquo;Morning, boys. How&amp;rsquo;s the water?&amp;rdquo; And the two young fish swim on for a bit, and then eventually one of them looks over at the other and goes &amp;ldquo;What the hell is water?</description>
     </item>
     
     <item>
@@ -35,7 +36,7 @@ There are these two young fish swimming along and they happen to meet an older f
       <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
       
       <guid>https://21er.github.io/about/</guid>
-      <description>This is some static page where you can write about yourself. But the result of mainstream engagement, as often as not, is little more than a demonstration of the narrow perspective of the conventional economist. In that vein, I’m particularly enamored of this contribution from Alex Tabarrok at Marginal Revolution. Tabarrok seizes on an element of Graeber’s essay that echoes something I wrote about a couple of years ago: the weak relationship between the importance of the jobs people do and the reward they receive for doing them.</description>
+      <description>I&amp;rsquo;m an university lecturer, teaching English writing and reading for a living.</description>
     </item>
     
   </channel>
